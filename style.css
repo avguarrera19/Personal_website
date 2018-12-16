@@ -4,7 +4,7 @@
 .topnav {border: 10px solid black;} 
 .footer 
 .header {
-	background-color: #F1F1F1;
+	background-color: red; color: black; 
 	text-align: center;
 	padding: 20px; 	
 }
