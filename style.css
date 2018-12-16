@@ -3,7 +3,8 @@
 .topnav a hover {background-color: blue; color: black;}  
 .topnav {border: 10px solid black;} 
 .footer 
-.header {background-color: #93B874;
-	 text-align: center;
-	 padding: 20px; 	
-	 }
+.header {
+	background-color: #F1F1F1;
+	text-align: center;
+	padding: 20px; 	
+}
