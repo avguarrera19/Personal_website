@@ -3,8 +3,4 @@
 .topnav a hover {background-color: blue; color: black;}  
 .topnav {border: 10px solid black;} 
 .footer 
-.header {
-	background-color: red; color: black; 
-	text-align: center;
-	padding: 20px; 	
-}
+.header {background-color: red; color: black; text-align: center; padding: 20px;}
