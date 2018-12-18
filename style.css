@@ -2,11 +2,13 @@
   overflow: hidden; 
   background-color: black;
 } 
+/* Navigation Bar Properties
 .topnav a {float:none; display: block; color: white; text-align: center; padding: 20px 18px; text decoration: none;}
 .topnav a:hover {background-color: white; color: black;}  
 .topnav {border: 10px solid black;} 
 .footer {background-color: #F1F1F1; text-align: center; padding: 10px;
 }
+/* Header Properties
 .header {background-color: red; color: black; text-align: center; padding: 20px;}
 .topnav a:hover {background-color: blue; color: white;
 } 
@@ -17,18 +19,21 @@
     width: 100%;
   }
 }
+/* Responsive Layout
 @media screen and (max-width: 800px) {
   .leftcolumn, .rightcolumn {
     width: 100%;
     padding: 0;
   }
 } 
+/* Responsive Layout
 @media screen and (max-width: 400px) {
   .topnav a {
     float: none;
     width: 100%;
   }
 } 
+/* Responsive Layout
 .row:after {
   content: "";
   display: table;
