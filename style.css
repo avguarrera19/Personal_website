@@ -10,3 +10,5 @@
 .header {background-color: red; color: black; text-align: center; padding: 20px;}
 .topnav a:hover {background-color: blue; color: white;
 } 
+.column {float: left; width: 33.33%; 
+} 
