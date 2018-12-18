@@ -23,3 +23,9 @@
     padding: 0;
   }
 } 
+@media screen and (max-width: 400px) {
+  .topnav a {
+    float: none;
+    width: 100%;
+  }
+} 
